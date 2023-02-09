@@ -18675,6 +18675,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ricardo.gerin\\Desktop\\TREINAWEB\\DOTNET\\TWTodolist\\Views\\ToDo\\Edit.cshtml",
+      "TargetPath": "Views\\ToDo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ricardo.gerin\\Desktop\\TREINAWEB\\DOTNET\\TWTodolist\\Views\\ToDo\\Create.cshtml",
       "TargetPath": "Views\\ToDo\\Create.cshtml",
       "FileKind": "mvc"
