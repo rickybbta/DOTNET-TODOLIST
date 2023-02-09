@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using TWTodolist.Contexts;
+using TWTodolist.Models;
 using TWTodolist.ViewModels;
 
 namespace TWTodolist.Controllers;
@@ -20,6 +21,19 @@ public class ToDoController: Controller{
         var todo = _context.ToDos.Find(id);
         if(todo is null) { return NotFound(); }
         _context.Remove(todo);
+        _context.SaveChanges();
+        return RedirectToAction(nameof(Index));
+    }
+
+    public IActionResult Create(){
+        ViewData["Title"] = "Nova tarefa";
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Create(CreateToDoViewModel dados){
+        var todo = new ToDo(dados.title, dados.date);
+        _context.Add(todo);
         _context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
