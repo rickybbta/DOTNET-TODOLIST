@@ -1,0 +1,30 @@
+@model ICollection<Client>
+
+<partial name= "_Header"/>
+
+<table class="table">
+    <thead>
+        <th>Nome</th>
+        <th>E-mail</th>
+        <th>compras</th>
+        <th>Tipo</th>
+    </thead>
+    <tbody>
+        @*for(var i=0; i<Model.Count(); i++){
+            <tr>
+                <td>@Model.ElementAt(i).nome</td>
+                <td>@Model.ElementAt(i).email</td>
+                <td>@Model.ElementAt(i).compras</td>
+                <td>@Model.ElementAt(i).tipo</td>
+            </tr>
+        }*@
+        @foreach (var client in Model){
+            <tr>
+                <td>@client.nome</td>
+                <td>@client.email</td>
+                <td>@client.compras</td>
+                <td>@client.tipo</td>
+            </tr>            
+        }
+    </tbody>
+</table>

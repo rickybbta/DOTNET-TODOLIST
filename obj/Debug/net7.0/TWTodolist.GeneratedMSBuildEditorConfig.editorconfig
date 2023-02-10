@@ -9,49 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TWTodolist
 build_property.RootNamespace = TWTodolist
-build_property.ProjectDir = C:\Users\ricardo.gerin\Desktop\TREINAWEB\DOTNET\TWTodolist\
+build_property.ProjectDir = c:\Users\ricardo.gerin\Desktop\TREINAWEB\DOTNET\TWTodolist\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ricardo.gerin\Desktop\TREINAWEB\DOTNET\TWTodolist
+build_property.MSBuildProjectDirectory = c:\Users\ricardo.gerin\Desktop\TREINAWEB\DOTNET\TWTodolist
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Home/Index.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Home/Privacy.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/Error.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Test/Index.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Test/AnotherTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxBbm90aGVyVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Test/ClientDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxDbGllbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Test/ClientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxDbGllbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Form.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Index.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/_ViewImports.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/_ViewStart.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_Layout.cshtml]
+[c:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h3ahb8za2d

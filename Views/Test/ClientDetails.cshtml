@@ -1,0 +1,23 @@
+@model Client
+
+<partial name= "_Header"/>
+
+<h1>Olá @Model.nome</h1>
+<p>Email: @Model.email</p>
+<p>Número de compras: @Model.compras</p>
+
+@if (Model.compras >= 100){
+    <p>Compras com 20% de desconto</p>
+} else if (Model.compras >=50){
+    <p>Compras com 10% de desconto</p>
+} else {
+    <p>Compras sem desconto</p>
+}
+
+@switch (Model.tipo)
+{
+    case 1: <p>Cliente comum</p> break;
+    case 2: <p>Cliente V.I.P.</p> break;
+    case 3: <p>Cliente premium</p> break;
+    default: <p>Cliente não especificado</p> break;
+}
