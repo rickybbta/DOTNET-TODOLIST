@@ -36,12 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xFZGl0LmNzaHRtbA==
+[C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ricardo.gerin/Desktop/TREINAWEB/DOTNET/TWTodolist/Views/ToDo/Index.cshtml]
